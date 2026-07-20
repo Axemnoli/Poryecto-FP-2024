@@ -6,7 +6,6 @@ Este es un proyecto que simula el sistema de admsiones Espol para administrar us
 El proyecto fue desarrollado uando Python en el IDE [Pycharm](www.jetbrains.com/es-es/pycharm/download/) y estructurado con el contenido del programa de la asignatura.
 
 Para el desarrollo del proyecto se usaron las siguientes librerías:
-
 ### Random
 Se utilizó para la ponderación aleatoria en el sistema de cupos.
 
